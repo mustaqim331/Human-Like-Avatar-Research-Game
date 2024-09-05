@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d05bef2bae6e104fba9e9558236329c, type: 3}
+  m_Name: ClothingItem_Pants_Short_Shorts
+  m_EditorClassIdentifier: 
+  Name: Short Shorts
+  IsEmpty: 0
+  SlotType: 5
+  MaleMesh: {fileID: -5814108948294345347, guid: b955af8da4529e74b82ae8bea9a9494b, type: 3}
+  FemaleMesh: {fileID: -4026500777610491512, guid: e6489ce2e440dd04ba4a1ae30ecbf090, type: 3}
+  Variations:
+  - {fileID: 2100000, guid: 9e0f0eb025c02e04b9bb63cfd50a8e2f, type: 2}
+  - {fileID: 2100000, guid: 0b493d6d4639a2c4f889f22cdaaced55, type: 2}
+  - {fileID: 2100000, guid: 9e262df93c428fe4c89332beb065e528, type: 2}
+  - {fileID: 2100000, guid: 52bd2efd71b97a94f909db77dc8e5849, type: 2}
+  - {fileID: 2100000, guid: 1bd798e92c6b80b49a479c64cf5cd02f, type: 2}
+  SecondaryMaterial: {fileID: 0}
+  HideShapeWeightIndex: 76
+  HideShapeWeightIndexSecondary: -1
+  HideSlots: 

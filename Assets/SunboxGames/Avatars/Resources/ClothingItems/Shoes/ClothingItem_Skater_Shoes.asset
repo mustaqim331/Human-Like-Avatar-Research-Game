@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d05bef2bae6e104fba9e9558236329c, type: 3}
+  m_Name: ClothingItem_Skater_Shoes
+  m_EditorClassIdentifier: 
+  Name: Skater Shoes
+  SlotType: 6
+  MaleMesh: {fileID: 6667280890619567105, guid: be0b8c55a305a4241bf80a28336f5df1, type: 3}
+  FemaleMesh: {fileID: -6356259785207942705, guid: fe7fe56249369a741b6bc80e3f8ed2b7, type: 3}
+  Variations:
+  - {fileID: 2100000, guid: f961849929bd1e940b34cfab063d98ce, type: 2}
+  - {fileID: 2100000, guid: 8402f4c000464b345a793ec7679fc1cf, type: 2}
+  - {fileID: 2100000, guid: b0eb1cb6a238f5b4f95f347ff138931f, type: 2}
+  - {fileID: 2100000, guid: 6b1f605f6cd6c9b48aa520b0f672230a, type: 2}
+  SecondaryMaterial: {fileID: 0}
+  HideShapeWeightIndex: 25
+  HideShapeWeightIndexSecondary: -1
+  HideSlots: 

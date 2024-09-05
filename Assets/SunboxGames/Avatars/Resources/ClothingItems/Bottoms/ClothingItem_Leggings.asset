@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d05bef2bae6e104fba9e9558236329c, type: 3}
+  m_Name: ClothingItem_Leggings
+  m_EditorClassIdentifier: 
+  Name: Leggings
+  SlotType: 5
+  MaleMesh: {fileID: -6963076433121172874, guid: c2d1c859a9d4d4044a954dd3a35002a4, type: 3}
+  FemaleMesh: {fileID: -5119085165351787915, guid: 88dda722bdc1ecc4fafb832e75eb66bd, type: 3}
+  Variations:
+  - {fileID: 2100000, guid: 18e821949721d4e4fa25707b2ea36f89, type: 2}
+  - {fileID: 2100000, guid: fbcba10ef5d4fec4b8d9dad9e19e447c, type: 2}
+  - {fileID: 2100000, guid: c3e337afc5c327e46a83398b820550bf, type: 2}
+  - {fileID: 2100000, guid: 465ebe236bd50f34aa407e6d29b4052b, type: 2}
+  SecondaryMaterial: {fileID: 0}
+  HideShapeWeightIndex: 24
+  HideShapeWeightIndexSecondary: -1
+  HideSlots: 

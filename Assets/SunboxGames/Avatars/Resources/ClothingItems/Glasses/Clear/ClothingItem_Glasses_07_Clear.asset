@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d05bef2bae6e104fba9e9558236329c, type: 3}
+  m_Name: ClothingItem_Glasses_07_Clear
+  m_EditorClassIdentifier: 
+  Name: Classic Feminine Glasses Clear
+  SlotType: 3
+  MaleMesh: {fileID: 5624960721693611791, guid: b95090378ede8cb42a32515270cba950, type: 3}
+  FemaleMesh: {fileID: 5624960721693611791, guid: b95090378ede8cb42a32515270cba950, type: 3}
+  Variations:
+  - {fileID: 2100000, guid: c6648be08a23a134db8b91309f694c68, type: 2}
+  - {fileID: 2100000, guid: ffa869203e3342d4dbff2ad02786ea45, type: 2}
+  - {fileID: 2100000, guid: 54667b22b1c7eb2479e8d8a4bdd8e2f6, type: 2}
+  - {fileID: 2100000, guid: ee73d9cfa829a45418e075416629e6e3, type: 2}
+  - {fileID: 2100000, guid: e6ae47920970ad54591225d8a48a56c5, type: 2}
+  - {fileID: 2100000, guid: 2cbc7642f09b9ab47b291bf111726ad8, type: 2}
+  - {fileID: 2100000, guid: c683b7bbc98c9d344ad9685f0ef1f8d4, type: 2}
+  - {fileID: 2100000, guid: a2cd807818ea4c3449e77238e5703361, type: 2}
+  SecondaryMaterial: {fileID: 2100000, guid: 5cb3df3b00358964b9862a7a880df268, type: 2}
+  HideShapeWeightIndex: -1

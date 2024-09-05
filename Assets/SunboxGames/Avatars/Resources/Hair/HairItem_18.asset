@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4216a75711b477746b360a0a80e12679, type: 3}
+  m_Name: HairItem_18
+  m_EditorClassIdentifier: 
+  Name: Long Hair 3
+  Variations:
+  - {fileID: 2100000, guid: 379df6cff6f311b4da4707134ac4c9fe, type: 2}
+  - {fileID: 2100000, guid: f15e85da601b9b64bbbdab329ecc74d6, type: 2}
+  - {fileID: 2100000, guid: 77f77564de613b142a9b1d2d257910ea, type: 2}
+  - {fileID: 2100000, guid: c54b8b311efa5f14093a24f66e9b6ff4, type: 2}
+  - {fileID: 2100000, guid: 4999d846ea5669647bddfb96176823eb, type: 2}
+  - {fileID: 2100000, guid: 046dc07261f0bd240aab586b7d600e94, type: 2}
+  - {fileID: 2100000, guid: 231c00f2bce99174ab262c8d3219bf93, type: 2}
+  - {fileID: 2100000, guid: 5995533100877eb4a92c22a43f1c6df6, type: 2}
+  - {fileID: 2100000, guid: 5eda78588fe891940b3d952082a5191e, type: 2}
+  - {fileID: 2100000, guid: 9a54bdec6488c464cb671e2197d355af, type: 2}
+  - {fileID: 2100000, guid: 1be0f3a0858a6104795b838d663f2133, type: 2}
+  - {fileID: 2100000, guid: 6285598eb8ce60240bb328b3cea5cadc, type: 2}
+  - {fileID: 2100000, guid: bb2513757712129479497538093f27d8, type: 2}
+  - {fileID: 2100000, guid: 67ea980a20f102b428dcdc9848bb550b, type: 2}
+  - {fileID: 2100000, guid: 438051d1c546b5d4ebba7cd21c3b8ca8, type: 2}
+  - {fileID: 2100000, guid: 3568ea67b46eeba4a9cc76b527d55a5c, type: 2}
+  - {fileID: 2100000, guid: 131f1145866f373499ed1be069adf7e9, type: 2}
+  - {fileID: 2100000, guid: 6cef6641481fd384e88a5d66d540b359, type: 2}
+  - {fileID: 2100000, guid: 029d22f1084fa4f4281a4efccd032b82, type: 2}
+  - {fileID: 2100000, guid: 6b60d8d717d03994884f489416cafc84, type: 2}
+  - {fileID: 2100000, guid: 650535ec661ea794a8bce2a5f852e951, type: 2}
+  - {fileID: 2100000, guid: 9135b5565032ed547ae7ff3ca136194f, type: 2}
+  - {fileID: 2100000, guid: faa3fe17d348c994c9bda8a5d8b316b3, type: 2}
+  - {fileID: 2100000, guid: cb8bfb24baec46949ab4572f2e57835d, type: 2}
+  HairMesh: {fileID: -7511558181221131132, guid: f25d3464b138eff419c0bdf473b4b86c, type: 3}
+  HatOffset: {x: 0, y: 0.0471, z: -0.0143}
+  HideHairWhenHatEquipped: 0

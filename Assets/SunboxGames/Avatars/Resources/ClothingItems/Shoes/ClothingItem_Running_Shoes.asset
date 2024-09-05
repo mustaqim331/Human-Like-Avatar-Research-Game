@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d05bef2bae6e104fba9e9558236329c, type: 3}
+  m_Name: ClothingItem_Running_Shoes
+  m_EditorClassIdentifier: 
+  Name: Running Shoes
+  SlotType: 6
+  MaleMesh: {fileID: 6938983308437294036, guid: f4fdfdae1f35a9148826f833103692e9, type: 3}
+  FemaleMesh: {fileID: 2257746769210051765, guid: e088bca249fb5e749b477f258e9e1822, type: 3}
+  Variations:
+  - {fileID: 2100000, guid: d63bca1ce1c77e1418a734e10580c691, type: 2}
+  - {fileID: 2100000, guid: 746badad9e844c44ea4099b54f6e6d77, type: 2}
+  - {fileID: 2100000, guid: fad3a586ef3c1764fb04859760261c01, type: 2}
+  - {fileID: 2100000, guid: e71cac49dcc260047ae699be23855144, type: 2}
+  SecondaryMaterial: {fileID: 0}
+  HideShapeWeightIndex: 25
+  HideShapeWeightIndexSecondary: -1
+  HideSlots: 
